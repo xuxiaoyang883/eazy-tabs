@@ -1,0 +1,1 @@
+import XTabs from './tabs'; XTabs.install = function(Vue) { Vue.component(XTabs.name, XTabs); }; export default XTabs;
